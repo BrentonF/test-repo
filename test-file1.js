@@ -1,13 +1,13 @@
 import { test } from 'test';
 
 let test = new Test();
-test.test();
+test.runTest();
 
 let test2 = new Test();
-test2.test();
+test.runTest();
 
 let test3 = new Test();
-test2.test();
+test.runTest();
 
 let test4 = new Test();
-test2.test();
+test.runTest();
